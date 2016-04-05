@@ -1,0 +1,17 @@
+{
+    "name": "ovi.hankamotz",
+    "description": "virtual pet",
+    "architecture": "all",
+    "title": "Ovi",
+    "hooks": {
+        "ovi": {
+            "apparmor": "ovi.apparmor",
+            "desktop":  "ovi.desktop"
+        }
+    },
+    "version": "0.3.5",
+    "maintainer": "Andima Landaluze <andimalo@hotmail.es>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
