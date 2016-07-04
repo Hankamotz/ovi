@@ -5,7 +5,8 @@ Icon=ovi.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
-X-Ubuntu-Splash-Color=white
+X-Ubuntu-Splash-Image=splash.png
+X-Ubuntu-Splash-Color=#FEDB00
 X-Ubuntu-Supported-Orientations=portrait
 
 
