@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Ovi
+Exec=qmlscene %U Main.qml
+Icon=ovi.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Image=splash.png
+X-Ubuntu-Splash-Color=#FEDB00
+X-Ubuntu-Supported-Orientations=portrait
+
+
